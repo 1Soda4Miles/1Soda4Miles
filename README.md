@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=1Soda4Miles&color=134f5c&label=☕︎)
-
 <p align="center">
 <img src="https://i.ibb.co/zVK2KKGF/Sticker-vamoopy-Med-High-Five.png" alt="Sticker vamoopy Med High Five" width=500>
 </p>
@@ -24,5 +22,12 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyqw6nfl3yq4i3f6yzcmqdfkim&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2f9891&bar_color_cover=false">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=1Soda4Miles&color=134f5c&label=☕︎">
   </a>
 </p>
