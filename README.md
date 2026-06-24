@@ -22,6 +22,8 @@ TCC , PROSHIPPERS / DARKSHIPPERS , YOU DISRESPECT PEOPLE'S BOUNDARIES , CLOSEMIN
 </p>
 </details>
 
+ <p align="center"><img src="https://64.media.tumblr.com/a8a05a20842000f1514f60652bd91660/b809b75023d40564-dd/s500x750/2ab5b0c6ddbf5cf48752e3d09051966e69d0ed5e.pnj" wdith=60></p>
+
 <details>
 <summary> <p align="center"> 
 !!! EXTRA !!!
